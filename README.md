@@ -41,4 +41,3 @@ Displays current real time and BTC price in USD.
    You may need to press and hold the Boot button when writing to the ESP32.
 
 5. Just run!
-
